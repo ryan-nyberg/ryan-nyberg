@@ -15,6 +15,11 @@
    - 💾 Software Engineering  
    - 📊 Machine Learning  
 
+📬 **Contact Me:**  
+   - 📧 **Email:** [ryan.nyberg@biola.edu](mailto:ryan.nyberg@biola.edu) 
+   - 💼 **LinkedIn:** [Ryan Nyberg](https://www.linkedin.com/in/-ryan-nyberg/)  
+   - 🐙 **GitHub:** [RyanNyberg](https://github.com/ryan-nyberg)  
+
 <!--
 **ryan-nyberg/ryan-nyberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

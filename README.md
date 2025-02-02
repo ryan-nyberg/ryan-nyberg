@@ -2,7 +2,7 @@
 
 💻 **Computer Science Student @ Biola University** (GPA: 3.9)
 
-🎯 **Currently learning:** Django, AMPL, Java  
+🎯 **Currently learning:** Django, AMPL, FastAPI  
 
 📈 **Working on:**  
    - 🌐 Building a Website with Django  

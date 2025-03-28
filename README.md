@@ -6,7 +6,7 @@
 
 📈 **Working on:**  
    - 🌐 Building a Website with Django  
-   - 🤖 Developing a recommendation app utilizing FastAPI, Python, and spaCy for NLP  
+   - 🤖 Developing a recommendation app utilizing FastAPI, Python, and AWS for NLP  
    - 🏫 Collaborating on a Student Marketplace App for Biola University  
 
 🚀 **Interests:**  

@@ -2,16 +2,15 @@
 
 💻 **Computer Science Student @ Biola University** (GPA: 3.9)
 
-🎯 **Currently learning:** Django, AMPL, FastAPI  
+🎯 **Currently learning:** React.js, Django, MySQL  
 
 📈 **Working on:**  
-   - 🌐 Building a Website with Django  
-   - 🤖 Developing a recommendation app utilizing FastAPI, Python, and a Llama model using AWS 
-   - 🏫 Collaborating on a Student Marketplace App for Biola University  
+   - 📊 Creating a database design in MySQL 
+   - 🤖 Collaborating on a mobile Prayer App with a focus on UI design in Figma 
+   - 🌐 Building a Website with Django    
 
 🚀 **Interests:**  
-   - 🤖 AI  
-   - 🌍 Web Development  
+   - 🤖 AI   
    - 💾 Software Engineering  
    - 📊 Machine Learning  
 

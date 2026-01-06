@@ -1,6 +1,6 @@
 # Hi there, I'm Ryan Nyberg 👋
 
-💻 **Computer Science Student @ Biola University** (GPA: 3.9)
+💻 **Computer Science Alumn @ Biola University** (GPA: 3.94)
 
 🎯 **Currently learning:** React.js, Django, MySQL  
 
